@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: master
 media_folder: "raw_img/uploads"
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
